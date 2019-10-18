@@ -25,6 +25,8 @@ To setup the database, the InfluxDB GUI can be reached on http://localhost:9999/
 For an initial setup the organization needs to be named 'tum' and the initial bucket name 'noaa-data'
 The token in the "Load Data" Section has to be copied into the constant variable 'token' located in the first lines of the file './react-frontend/src/js/influx.js'
 
+The data has to be imported in the Influx GUI by clicking on the 'Add Data' Button of 'noaa-data' bucket and copied from the provided file 'data_noaa.txt' as Line Protocol in Second precision.
+
 ### Install Modules
 
 To install the JavaScript modules, run 'yarn' as a terminal command in the './react-frontend/' folder.
