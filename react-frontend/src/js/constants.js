@@ -139,7 +139,7 @@ export const marksQueryStep = [
 export const marksQueryInterval = [
   {
     value: 10,
-    label: '10s',
+    label: '10ms',
   },
   {
     value: 200,
