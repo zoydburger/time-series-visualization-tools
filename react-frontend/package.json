@@ -10,7 +10,7 @@
     "influx": "^5.4.2",
     "mqtt": "^3.0.0",
     "paho-mqtt": "^1.1.0",
-    "papaparse": "^5.1.0",
+    "papaparse": "^5.2.0",
     "plotly.js": "^1.49.5",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
